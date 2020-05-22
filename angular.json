@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "MyStaticSite"
+    }
+  },
+  "defaultProject": "MyStaticSite",
+  "cli": {
+    "analytics": "7318dcb4-1c59-428b-8d62-c4d4cf49cbbe"
+  }
 }
